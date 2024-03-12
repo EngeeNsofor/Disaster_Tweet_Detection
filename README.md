@@ -1,4 +1,4 @@
-# Disaster_Tweet_Detection
+# Disaster Tweet Detection
 #NLP #TextClassification
 
 ### Context
